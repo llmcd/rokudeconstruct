@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Videos>
+	<Video>
+		<Title>Video 1</Title>
+		<Image>http://s3.amazonaws.com/rokudev/video1.png</Image>
+		<Url>http://d1bg50pvgc5io5.cloudfront.net/movies/abstractcircles_24fps.mp4</Url>
+	</Video>
+	<Video>
+		<Title>Video 2</Title>
+		<Image>http://s3.amazonaws.com/rokudev/video2.png</Image>
+		<Url>http://d1bg50pvgc5io5.cloudfront.net/movies/wordfloat2.mp4</Url>
+	</Video>
+	<Video>
+		<Title>Video 3</Title>
+		<Image>http://s3.amazonaws.com/rokudev/video3.png</Image>
+		<Url>http://d1bg50pvgc5io5.cloudfront.net/movies/welcome.mp4</Url>
+	</Video>
+	
+</Videos>
